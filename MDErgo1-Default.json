@@ -216,8 +216,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "BACKSLASH",
-                    "label": "\\"
+                    "key": "TAB",
+                    "label": "TAB"
                 }
             },
             "w": 6,
@@ -294,8 +294,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "TAB",
-                    "label": "TAB"
+                    "key": "CAPSLOCK",
+                    "label": "CAPSLK"
                 }
             },
             "w": 6,
@@ -907,8 +907,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "FUN1",
-                    "label": "\u01921"
+                    "key": "BACKSPACE",
+                    "label": "BKSP"
                 }
             },
             "w": 4,
@@ -1040,8 +1040,8 @@
             "h": 8,
             "layers": {
                 "0": {
-                    "key": "BACKSPACE",
-                    "label": "BKSP"
+                    "key": "ENTER",
+                    "label": "\u21b5"
                 }
             },
             "w": 4,
@@ -1053,8 +1053,8 @@
             "h": 8,
             "layers": {
                 "0": {
-                    "key": "ENTER",
-                    "label": "\u21b5"
+                    "key": "SPACE",
+                    "label": "[&nbsp;]"
                 },
                 "2": {
                     "key": "P0",
