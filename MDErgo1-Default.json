@@ -15,8 +15,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "ESC",
-                    "label": "ESC"
+                    "key": "LCK1",
+                    "label": "LOCK-1"
                 },
                 "1": {
                     "key": "F11",
@@ -138,8 +138,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "LCK1",
-                    "label": "LOCK-1"
+                    "key": "ESCAPE",
+                    "label": "ESC"
                 }
             },
             "w": 4,
@@ -333,8 +333,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "FUN1",
-                    "label": "\u01921"
+                    "key": "PREV LAYER",
+                    "label": "PREV-\u0192"
                 }
             },
             "w": 4,
@@ -450,8 +450,8 @@
             "h": 8,
             "layers": {
                 "0": {
-                    "key": "DELETE",
-                    "label": "DEL"
+                    "key": "BACKSPACE",
+                    "label": "BKSP"
                 }
             },
             "w": 4,
@@ -476,8 +476,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "RIGHT",
-                    "label": "\u2192"
+                    "key": "DELETE",
+                    "label": "DEL"
                 }
             },
             "w": 4,
@@ -907,8 +907,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "BACKSPACE",
-                    "label": "BKSP"
+                    "key": "NEXT LAYER",
+                    "label": "NEXT-\u0192"
                 }
             },
             "w": 4,
