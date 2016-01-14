@@ -156,9 +156,9 @@ Guide_RM( 2 ) = { 1, 14, KEY_F, 0 };
 Guide_RM( 3 ) = { 1, 14, KEY_SEMICOLON, 0 };
 Guide_RM( 4 ) = { 1, 14, KEY_CAPS_LOCK, 0 };
 Guide_RM( 5 ) = { 1, 14, KEY_J, 0 };
-Guide_RM( 6 ) = { 1, 14, KEY_ESC, 0 };
+Guide_RM( 6 ) = { 2, 4, 1, 0, 1, 0 };
 Guide_RM( 7 ) = { 1, 14, KEY_QUOTE, 0 };
-Guide_RM( 8 ) = { 1, 8, 205, 0, 0 };
+Guide_RM( 8 ) = { 1, 14, KEY_LEFT, 0 };
 Guide_RM( 9 ) = { 1, 14, KEY_LALT, 0 };
 Guide_RM( 10 ) = { 1, 14, KEY_K, 0 };
 Guide_RM( 11 ) = { 1, 14, KEY_BACKSPACE, 0 };
@@ -180,11 +180,11 @@ Guide_RM( 26 ) = { 1, 14, KEY_RSHIFT, 0 };
 Guide_RM( 27 ) = { 1, 14, KEY_H, 0 };
 Guide_RM( 28 ) = { 1, 14, KEY_HOME, 0 };
 Guide_RM( 29 ) = { 1, 14, KEY_COMMA, 0 };
-Guide_RM( 30 ) = { 2, 6, 5, 0, 1, 0 };
+Guide_RM( 30 ) = { 1, 14, KEY_DELETE, 0 };
 Guide_RM( 31 ) = { 1, 14, KEY_E, 0 };
 Guide_RM( 32 ) = { 1, 14, KEY_PAGE_UP, 0 };
 Guide_RM( 33 ) = { 1, 14, KEY_END, 0 };
-Guide_RM( 34 ) = { 1, 14, KEY_DELETE, 0 };
+Guide_RM( 34 ) = { 1, 14, KEY_ESC, 0 };
 Guide_RM( 35 ) = { 1, 14, KEY_I, 0 };
 Guide_RM( 36 ) = { 1, 14, KEY_W, 0 };
 Guide_RM( 37 ) = { 1, 14, KEY_PAGE_DOWN, 0 };
@@ -215,12 +215,12 @@ Guide_RM( 61 ) = { 1, 14, KEY_L, 0 };
 Guide_RM( 62 ) = { 1, 14, KEY_C, 0 };
 Guide_RM( 63 ) = { 1, 14, KEY_4, 0 };
 Guide_RM( 64 ) = { 1, 14, KEY_RCTRL, 0 };
-Guide_RM( 65 ) = { 2, 4, 1, 0, 1, 0 };
+Guide_RM( 65 ) = { 2, 5, 1, 1, 0 };
 Guide_RM( 66 ) = { 1, 14, KEY_7, 0 };
 Guide_RM( 67 ) = { 1, 14, KEY_RIGHT, 0 };
 Guide_RM( 68 ) = { 1, 14, KEY_3, 0 };
-Guide_RM( 69 ) = { 1, 14, KEY_LGUI, 0 };
-Guide_RM( 70 ) = { 1, 14, KEY_LEFT, 0 };
+Guide_RM( 69 ) = { 2, 5, 0, 1, 0 };
+Guide_RM( 70 ) = { 1, 14, KEY_LGUI, 0 };
 Guide_RM( 71 ) = { 1, 14, KEY_8, 0 };
 Guide_RM( 72 ) = { 1, 14, KEY_A, 0 };
 Guide_RM( 73 ) = { 1, 14, KEY_RGUI, 0 };
@@ -561,9 +561,9 @@ const TriggerMacro TriggerMacroList[] = {
 	Define_TM( 67, 66 ),
 	Define_TM( 68, 67 ),
 	Define_TM( 69, 68 ),
-	Define_TM( 70, 1 ),
-	Define_TM( 71, 69 ),
-	Define_TM( 72, 70 ),
+	Define_TM( 70, 69 ),
+	Define_TM( 71, 70 ),
+	Define_TM( 72, 8 ),
 	Define_TM( 73, 71 ),
 	Define_TM( 74, 72 ),
 	Define_TM( 75, 73 ),
