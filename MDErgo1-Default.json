@@ -474,7 +474,12 @@
         {
             "code": "0x28",
             "h": 4,
-            "layers": {},
+            "layers": {
+                "0": {
+                    "key": "LGUI",
+                    "label": "LGUI"
+                }
+            },
             "w": 4,
             "x": 18,
             "y": 17
@@ -523,8 +528,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "LGUI",
-                    "label": "LGUI"
+                    "key": "LCTRL",
+                    "label": "LCTRL"
                 }
             },
             "w": 4,
