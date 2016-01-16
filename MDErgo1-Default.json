@@ -309,6 +309,10 @@
                 "0": {
                     "key": "LALT",
                     "label": "LALT"
+                },
+                "1": {
+                    "key": "#:ledControl( 5, 0, 0 )",
+                    "label": "LED OFF"
                 }
             },
             "w": 4,
@@ -426,6 +430,10 @@
                 "0": {
                     "key": "HOME",
                     "label": "HOME"
+                },
+                "1": {
+                    "key": "#:ledControl( 4, 15, 0 )",
+                    "label": "LED+"
                 }
             },
             "w": 4,
@@ -439,6 +447,10 @@
                 "0": {
                     "key": "END",
                     "label": "END"
+                },
+                "1": {
+                    "key": "#:ledControl( 3, 15, 0 )",
+                    "label": "LED-"
                 }
             },
             "w": 4,
