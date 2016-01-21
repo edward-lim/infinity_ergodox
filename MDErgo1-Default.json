@@ -14,10 +14,6 @@
             "code": "0x02",
             "h": 4,
             "layers": {
-                "0": {
-                    "key": "CONS:SCANPREVIOUSTRACK",
-                    "label": "PREV"
-                },
                 "1": {
                     "key": "F11",
                     "label": "F11"
@@ -446,8 +442,8 @@
             "h": 8,
             "layers": {
                 "0": {
-                    "key": "DELETE",
-                    "label": "DEL"
+                    "key": "ENTER",
+                    "label": "\u21b5"
                 }
             },
             "w": 4,
@@ -459,10 +455,6 @@
             "h": 8,
             "layers": {
                 "0": {
-                    "key": "ENTER",
-                    "label": "\u21b5"
-                },
-                "3": {
                     "key": "SPACE",
                     "label": "[&nbsp;]"
                 }
@@ -478,6 +470,10 @@
                 "0": {
                     "key": "LGUI",
                     "label": "LGUI"
+                },
+                "3": {
+                    "key": "#:None",
+                    "label": "NONE"
                 }
             },
             "w": 4,
@@ -541,8 +537,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "CONS:SCANNEXTTRACK",
-                    "label": "NEXT"
+                    "key": "DELETE",
+                    "label": "DEL"
                 },
                 "1": {
                     "key": "F12",
@@ -1055,10 +1051,6 @@
                 "2": {
                     "key": "P0",
                     "label": "P0"
-                },
-                "3": {
-                    "key": "ENTER",
-                    "label": "\u21b5"
                 }
             },
             "w": 4,
