@@ -123,10 +123,6 @@
                 "2": {
                     "key": "#:flashMode()",
                     "label": "FLASH"
-                },
-                "3": {
-                    "key": "#:flashMode()",
-                    "label": "FLASH"
                 }
             },
             "w": 6,
@@ -309,10 +305,6 @@
                 "0": {
                     "key": "LALT",
                     "label": "LALT"
-                },
-                "1": {
-                    "key": "#:ledControl( 5, 0, 0 )",
-                    "label": "LED OFF"
                 }
             },
             "w": 4,
@@ -337,8 +329,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "LCK1",
-                    "label": "LOCK-1"
+                    "key": "PREV LAYER",
+                    "label": "PREV-\u0192"
                 }
             },
             "w": 4,
@@ -430,10 +422,6 @@
                 "0": {
                     "key": "HOME",
                     "label": "HOME"
-                },
-                "1": {
-                    "key": "#:ledControl( 4, 15, 0 )",
-                    "label": "LED+"
                 }
             },
             "w": 4,
@@ -447,10 +435,6 @@
                 "0": {
                     "key": "END",
                     "label": "END"
-                },
-                "1": {
-                    "key": "#:ledControl( 3, 15, 0 )",
-                    "label": "LED-"
                 }
             },
             "w": 4,
@@ -475,6 +459,10 @@
             "h": 8,
             "layers": {
                 "0": {
+                    "key": "ENTER",
+                    "label": "\u21b5"
+                },
+                "3": {
                     "key": "SPACE",
                     "label": "[&nbsp;]"
                 }
@@ -675,10 +663,6 @@
                     "label": "-"
                 },
                 "2": {
-                    "key": "#:flashMode()",
-                    "label": "FLASH"
-                },
-                "3": {
                     "key": "#:flashMode()",
                     "label": "FLASH"
                 }
@@ -919,8 +903,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "LCK2",
-                    "label": "LOCK-2"
+                    "key": "NEXT LAYER",
+                    "label": "NEXT-\u0192"
                 }
             },
             "w": 4,
@@ -1065,12 +1049,16 @@
             "h": 8,
             "layers": {
                 "0": {
-                    "key": "ENTER",
-                    "label": "\u21b5"
+                    "key": "SPACE",
+                    "label": "[&nbsp;]"
                 },
                 "2": {
                     "key": "P0",
                     "label": "P0"
+                },
+                "3": {
+                    "key": "ENTER",
+                    "label": "\u21b5"
                 }
             },
             "w": 4,

@@ -7,6 +7,6 @@ Layout = "Default";
 Name = "MDErgo1";
 Version = "0.1";
 
-U"EQUALS" : flashMode();
-U"MINUS" : flashMode();
+U"BACKSPACE" : U"SPACE";
+U"SPACE" : U"ENTER";
 
