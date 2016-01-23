@@ -7,6 +7,7 @@ Layout = "Default";
 Name = "MDErgo1";
 Version = "0.1";
 
+U"ESC" : None;
 U"5" : U"5";
 U"4" : U"4";
 U"3" : U"3";

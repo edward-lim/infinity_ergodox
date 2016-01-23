@@ -14,6 +14,10 @@
             "code": "0x02",
             "h": 4,
             "layers": {
+                "0": {
+                    "key": "#:None",
+                    "label": "NONE"
+                },
                 "1": {
                     "key": "F11",
                     "label": "F11"
