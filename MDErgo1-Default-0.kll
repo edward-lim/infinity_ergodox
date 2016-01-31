@@ -7,7 +7,7 @@ Layout = "Default";
 Name = "MDErgo1";
 Version = "0.1";
 
-U"ESC" : None;
+U"ESC" : CONS"PAUSEPLAY";
 U"5" : U"5";
 U"4" : U"4";
 U"3" : U"3";
@@ -41,7 +41,7 @@ U"END" : U"END";
 U"DELETE" : U"ENTER";
 U"BACKSPACE" : U"SPACE";
 U"FUNCTION5" : U"LGUI";
-U"FUNCTION4" : CONS"PAUSEPLAY";
+U"FUNCTION4" : '+';
 U"FUNCTION3" : U"BACKSLASH";
 U"BACKTICK" : U"BACKTICK";
 U"LGUI" : U"LCTRL";

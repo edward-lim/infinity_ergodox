@@ -15,8 +15,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "#:None",
-                    "label": "NONE"
+                    "key": "CONS:PAUSEPLAY",
+                    "label": "PL/PS"
                 },
                 "1": {
                     "key": "F11",
@@ -489,8 +489,8 @@
             "h": 4,
             "layers": {
                 "0": {
-                    "key": "CONS:PAUSEPLAY",
-                    "label": "PL/PS"
+                    "key": "#:'+'",
+                    "label": "+"
                 }
             },
             "w": 4,
