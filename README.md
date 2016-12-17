@@ -1,3 +1,3 @@
-My Infinity Ergodox Layout
+# My Infinity Ergodox Layout
 
 ![Image of Layout](layout.png)
