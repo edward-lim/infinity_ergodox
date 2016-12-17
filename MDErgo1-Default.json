@@ -336,8 +336,8 @@
             "h": 6,
             "layers": {
                 "0": {
-                    "key": "LAT1",
-                    "label": "LATCH-1"
+                    "key": "FUN1",
+                    "label": "\u01921"
                 }
             }
         },
